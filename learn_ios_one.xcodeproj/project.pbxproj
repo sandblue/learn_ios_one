@@ -14,6 +14,7 @@
 		B8AEFA5A22FC00FD008D1302 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8AEFA5822FC00FD008D1302 /* LaunchScreen.storyboard */; };
 		B8AEFA6522FC00FD008D1302 /* learn_ios_oneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8AEFA6422FC00FD008D1302 /* learn_ios_oneTests.swift */; };
 		B8AEFA7022FC00FD008D1302 /* learn_ios_oneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8AEFA6F22FC00FD008D1302 /* learn_ios_oneUITests.swift */; };
+		B8AEFA7E22FC069B008D1302 /* url.rtf in Resources */ = {isa = PBXBuildFile; fileRef = B8AEFA7D22FC069B008D1302 /* url.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B8AEFA6B22FC00FD008D1302 /* learn_ios_oneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = learn_ios_oneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8AEFA6F22FC00FD008D1302 /* learn_ios_oneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = learn_ios_oneUITests.swift; sourceTree = "<group>"; };
 		B8AEFA7122FC00FD008D1302 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B8AEFA7D22FC069B008D1302 /* url.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = url.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				B8AEFA5622FC00FD008D1302 /* Assets.xcassets */,
 				B8AEFA5822FC00FD008D1302 /* LaunchScreen.storyboard */,
 				B8AEFA5B22FC00FD008D1302 /* Info.plist */,
+				B8AEFA7D22FC069B008D1302 /* url.rtf */,
 			);
 			path = learn_ios_one;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8AEFA7E22FC069B008D1302 /* url.rtf in Resources */,
 				B8AEFA5A22FC00FD008D1302 /* LaunchScreen.storyboard in Resources */,
 				B8AEFA5722FC00FD008D1302 /* Assets.xcassets in Resources */,
 				B8AEFA5522FC00FB008D1302 /* Main.storyboard in Resources */,
